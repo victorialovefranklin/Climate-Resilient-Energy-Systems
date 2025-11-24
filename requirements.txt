@@ -1,0 +1,57 @@
+# ============================================================================
+# REQUIREMENTS.TXT
+# Climate-Resilient Energy Systems Dashboard
+# Author: Victoria Love Franklin, Meharry Medical College
+# ============================================================================
+
+# Core Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Geospatial Libraries
+geopandas>=0.13.0
+shapely>=2.0.0
+folium>=0.14.0
+streamlit-folium>=0.15.0
+pyproj>=3.6.0
+
+# Visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web Requests (for FREE APIs)
+requests>=2.31.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# AI/LLM Integration (Claude API)
+anthropic>=0.7.0
+
+# Environment Variables (Optional - for .env file support)
+python-dotenv>=1.0.0
+
+# Machine Learning (Optional)
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+
+# Statistical Analysis (Optional)
+scipy>=1.11.0
+
+# ============================================================================
+# INSTALLATION COMMANDS:
+# 
+# Basic install (core features):
+#   pip install streamlit pandas numpy folium streamlit-folium plotly requests pillow anthropic
+#
+# Full install (all features):
+#   pip install -r requirements.txt
+#
+# Run dashboard:
+#   streamlit run dashboard_comprehensive.py
+# ============================================================================
