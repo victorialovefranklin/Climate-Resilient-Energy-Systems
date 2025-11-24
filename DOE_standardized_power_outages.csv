@@ -1,0 +1,398 @@
+Event_ID,Date_Event_Began,Time_Event_Began,Date_of_Restoration,Time_of_Restoration,Area_Affected,NERC_Region,Alert_Criteria,Event_Type,Demand_Loss_MW,Number_of_Customers_Affected,Category
+1,1/18/2010,11:30:00,,,Northern and Central California,WECC,,Severe Storm,290,1700000,Weather
+2,1/20/2010,13:00:00,,,"City of Los Angeles, California",WECC,,Severe Storm,,147223,Weather
+3,5/18/2010,8:15:00,,,Central California,WECC,,Breakers Tripped,318,,Equipment
+4,6/6/2010,4:45:00,,,Northern California,WECC,,Electric System Separation,3,2650,Islanding
+5,6/25/2010,23:36:00,,,Northern California,WECC,,Electrical System Separation,,,Islanding
+6,7/29/2010,18:39:00,,,Southern California,WECC,,"Shed Interruptible Load, Wildfire",522,,Wildfire
+7,7/29/2010,18:39:00,,,Southern California,WECC,,"Shed Interruptible Load, Wildfire",522,,Wildfire
+8,8/2/2010,12:00:00,,,Central California,WECC,,Fuel Supply Deficiency (Hydro),,,Fuel Supply Deficiency
+9,9/1/2010,10:20:00,,,"Pittsburg (Bay Area), California",WECC,,Electrical System Separation (Islanding),31,15000,Islanding
+10,9/22/2010,6:12:00,,,"Bakersfield, California",WECC,,Firm Load Shed,526,,Load Shed
+11,9/27/2010,15:15:00,,,Central and Southern California,WECC,,Interruptible Load Shed,595,,Load Shed
+12,10/5/2010,5:45:00,,,"City of Los Angeles, California",WECC,,Rain and High Winds,,73514,Weather
+13,10/27/2010,17:16:00,,,Northern California,WECC,,Electrical System Separation-Islanding,16,2674,Islanding
+14,10/31/2010,22:26:00,,,"Bakersfield, California",WECC,,Firm System Load Loss,500,,Load Shed
+15,11/6/2010,15:53:00,,,Northern California,WECC,,Electrical System Separation - Islanding,20,4,Islanding
+16,11/21/2010,1:39:00,,,Northern and Central California,WECC,,Winter Storm,75,60000,Weather
+17,11/23/2010,14:01:00,,,Northern California,WECC,,Electrical System Separation - Islanding,22,7077,Islanding
+18,12/3/2010,21:32:00,,,California,WECC,,Electrical System Separation - Islanding,22,7077,Islanding
+19,12/14/2010,7:20:00,,,California,WECC,,Electrical System Separation - Islanding,9,6635,Islanding
+20,12/14/2010,7:36:00,,,Southern California,WECC,,Transmission Equipment/Firm System Load,464,,Load Shed
+21,2/3/2011,15:00:00,,12:00:00,"San Diego area, California",WECC,,Fuel Supply Deficiency (Natural Gas),,,Fuel Supply Deficiency
+22,2/17/2011,13:00:00,,16:53:00,"Roseville, California",WECC,,Suspected Cyber Attack,0,0,Cyber Attack
+23,2/17/2011,1:25:00,,10:13:00,Northern and Central California,WECC,,Major Storm,91,80000,Weather
+24,2/25/2011,8:00:00,,17:30:00,Northern and Central California,WECC,,Winter Storm,91,80000,Weather
+25,3/11/2011,7:02:00,,9:15:00,"Humboldt and Eureka, California",WECC,,Generation Inadequacy/Load Shed,15,6800,Generation Interruption
+26,3/19/2011,23:56:00,,19:10:00,Northern and Central California,WECC,,Major Storm,91,128000,Weather
+27,3/20/2011,9:44:00,,10:00:00,"Los Angeles, California",WECC,,Major Storm,,79000,Weather
+28,3/21/2011,12:35:00,,14:45:00,Southern California,WECC,,Major Storm,150,54332,Weather
+29,3/27/2011,13:27:00,,17:00:00,"Sonoma and Central Valley, California",WECC,,Transmission Level Outage,295,165000,Transmission Interruption
+30,6/4/2011,1:17:00,,3:25:00,"Midway, California",WECC,,Vandalism,,420,Physical Attack
+31,6/5/2011,20:02:00,,20:55:00,"Melones, California",WECC,,Electrical System Separation (Islanding),10,5314,Islanding
+32,6/9/2011,14:15:00,,14:15:00,"San Antonio Dam Area, Los Angeles County, California",WECC,,Suspected Physical Attack,0,0,Physical Attack
+33,7/12/2011,20:20:00,,21:30:00,California,WECC,,Suspected Physical Attack,,,Physical Attack
+34,9/8/2011,15:28:00,,15:30:00,Arizona; California,WECC,,Transmission/Distribution Interruption; Load Shed; Generation Inadequacy,7000,2000000,Generation Interruption
+35,11/30/2011,16:56:00,,10:00:00,"City of Los Angeles, California",WECC,,Severe Weather,,150000,Weather
+36,12/1/2011,0:45:00,,21:00:00,Southern California,WECC,,Severe Weather,,91690,Weather
+37,12/1/2011,3:29:00,,13:05:00,Northern California,WECC,,Severe Weather,300,100000,Weather
+38,2/28/2012,2:59:00,,6:12:00,"Sacramento, California",WECC,,Electrical System Separation (Islanding),1,1,Islanding
+39,4/4/2012,15:32:00,,15:30:00,"WAPA-SNR Regional Office, California",WECC,,Suspected Physical Attack,,,Physical Attack
+40,4/17/2012,6:11:00,,17:48:00,"San Diego County, California",WECC,,Suspected Physical Attack,0,0,Physical Attack
+41,6/2/2012,7:30:00,,11:35:00,"San Francisco, California",WECC,,Vandalism,,,Physical Attack
+42,6/19/2012,5:30:00,,5:30:00,CAISO Territory California,WECC,,Fuel Supply Deficiency (Water),,,Fuel Supply Deficiency
+43,7/7/2012,4:00:00,,4:00:00,CAISO California,WECC,,Fuel Supply Deficiency (Water),,0,Fuel Supply Deficiency
+44,8/4/2012,3:55:00,,4:21:00,"Temblor Substation in McKittrick, California",WECC,,Electrical System Separation (Islanding),5,127,Islanding
+45,9/6/2012,4:45:00,,,"Oroville, California",WECC,,Fuel Supply Deficiency (Water),,,Fuel Supply Deficiency
+46,10/5/2012,17:30:00,,17:50:00,"Greater Sacramento, California",WECC,,Suspected Physical Attack,,,Physical Attack
+47,10/14/2012,10:36:00,,10:50:00,Northern California,WECC,,Electrical System Separation (Islanding),3,2035,Islanding
+48,12/2/2012,5:20:00,,9:00:00,Northern California,WECC,,Severe Weather - Winter Storm,250,125000,Weather
+49,12/6/2012,21:18:00,,21:31:00,"Greater San Jose, California",WECC,,Load Shed,390,,Load Shed
+50,2/19/2013,16:01:00,,12:55:00,"Stockton, California",WECC,,Electrical System Separation (Islanding),13850,6810,Islanding
+51,3/3/2013,6:39:00,,10:29:00,"Merced County, California",WECC,,Transmission System Interruption,300,58850,Transmission Interruption
+52,4/16/2013,1:47:00,,15:25:00,California,WECC,,"Loss of Part of a High Voltage Substation, Physical Attack",,0,Physical Attack
+53,4/23/2013,0:49:00,,4:04:00,"South of Humboldt, California",WECC,,Electrical System Separation (Islanding),80,1,Islanding
+54,4/25/2013,16:00:00,,10:55:00,"Sunol, California",WECC,,Vandalism,0,0,Physical Attack
+55,5/13/2013,12:52:00,,,Central California,WECC,,Fuel Supply Emergency - Hydro,176,,Fuel Supply Deficiency
+56,6/23/2013,21:20:00,,1:35:00,Central Coast California,WECC,,Severe Weather - Fog,,148000,Weather
+57,6/28/2013,18:02:00,,20:46:00,"Los Angeles and Orange Counties, California",WECC,,Equipment Failure,240,65255,Equipment
+58,7/3/2013,9:34:00,,10:52:00,Sacramento California,WECC,,Suspected Physical Attack,0,0,Physical Attack
+59,7/5/2013,0:05:00,,1:51:00,California,WECC,,Physical Attack; Vandalism,,2500,Physical Attack
+60,7/18/2013,23:45:00,,10:05:00,Southern Orange County California,WECC,,Equipment Failure,200,123000,Equipment
+61,7/22/2013,7:00:00,,15:00:00,California,WECC,,Physical Attack; Vandalism,,,Physical Attack
+62,8/19/2013,19:06:00,,6:02:00,Central California,WECC,,Severe Weather - Lightning Strike,685,124000,Weather
+63,10/19/2013,14:32:00,,22:00:00,California,WECC,,Physical Attack,,,Physical Attack
+64,11/12/2013,14:04:00,,14:05:00,"Valle, California",WECC,,Electrical System Separation (Islanding),55,48400,Islanding
+65,11/21/2013,19:45:00,,3:20:00,Northern California,WECC,,Severe Weather - Wind Storm,150,89500,Weather
+66,2/6/2014,13:00:00,,22:00:00,California,WECC,,Fuel Supply Emergency - Natural Gas,4000,,Fuel Supply Deficiency
+67,2/6/2014,13:05:00,,19:15:00,Northern California,WECC,,Fuel Supply Emergency - Natural Gas,160,,Fuel Supply Deficiency
+68,2/6/2014,14:15:00,,19:39:00,California,WECC,,Fuel Supply Emergency - Natural Gas,611,,Fuel Supply Deficiency
+69,4/8/2014,13:00:00,,13:01:00,"Davis, California",WECC,,Physical Attack - Vandalism,,,Physical Attack
+70,5/8/2014,8:39:00,,8:40:00,"Imperial Valley, California",WECC,,Physical Attack,,,Physical Attack
+71,5/14/2014,15:34:00,,,"San Diego & Orange Counties, California",WECC,,Public Appeal to Reduce Electricity Usage - Wild Fires,,426,Wildfire
+72,5/15/2014,10:43:00,,,"San Diego & Orange Counties, California",WECC,,Public Appeal to Reduce Electricity Usage - Wild Fires,3300,1400000,Wildfire
+73,5/16/2014,10:43:00,,21:00:00,"San Diego & Orange Counties, California",WECC,,Public Appeal to Reduce Electricity Usage - Wild Fires,3900,1400000,Wildfire
+74,7/24/2014,16:29:00,,23:32:00,California,WECC,,Load shedding of 100 Megawatts,126,26856,Load Shed
+75,7/27/2014,23:00:00,,4:00:00,Central California,WECC,,Uncontrolled Loss of 300 Megawatts,480,1,?
+76,8/24/2014,3:20:00,,7:05:00,"North of San Francisco, California",WECC,,Earthquake,95,70000,Natural Disaster
+77,9/16/2014,11:56:00,,11:57:00,California,WECC,,Physical Attack - Vandalism,,,Physical Attack
+78,11/19/2014,14:44:00,,14:45:00,"Victorville, California",WECC,,Suspected Physical Attack - Vandalism,,,Physical Attack
+79,12/11/2014,7:21:00,,21:53:00,"San Francisco, California",WECC,,Distribution Interruption - Unknown Cause,225,75000,Distribution Interruption
+80,12/11/2014,6:40:00,,,Northern California,WECC,,Severe Weather- High Winds,,,Weather
+81,12/11/2014,23:15:00,,,Northern California,WECC,,Severe Weather- High Winds,,,Weather
+82,12/30/2014,13:08:00,,16:50:00,Northern California,WECC,,Severe Weather- High Winds,127,84500,Weather
+83,2/4/2015,11:55:00,,11:56:00,"Vollmers, California",WECC,Suspected Physical Attack,Vandalism,,,Physical Attack
+84,2/5/2015,11:20:00,,11:21:00,"Dunismuir, California",WECC,Suspected Physical Attack,Vandalism,,,Physical Attack
+85,2/6/2015,20:58:00,,,Northern California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather - Wind,,65000,Weather
+86,3/26/2015,15:21:00,,16:59:00,"Contra Costa County, California",WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,15,,Islanding
+87,3/29/2015,4:26:00,,9:21:00,California,WECC,Suspected Physical Attack,Vandalism,,,Physical Attack
+88,4/6/2015,8:12:00,,12:08:00,"Butte County, California",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",System Operations,,80000,Operations
+89,4/7/2015,15:34:00,,15:46:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,0,0,Islanding
+90,5/11/2015,8:32:00,,8:33:00,"Shasta County, California",WECC,Suspected Physical Attack,Sabotage,0,0,Physical Attack
+91,6/1/2015,19:19:00,,8:36:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,5,484,Islanding
+92,6/2/2015,18:58:00,,19:24:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,5,727,Islanding
+93,6/8/2015,0:00:00,,,"Merced County, California",WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,System Operations,176,,Fuel Supply Deficiency
+94,6/20/2015,13:52:00,,15:30:00,"Solano County, California",WECC,Suspected Physical Attack,Vandalism,,0,Physical Attack
+95,6/30/2015,10:50:00,,21:00:00,California,WECC,Public appeal to reduce the use of electricity,Severe Weather,,,Weather
+96,6/30/2015,14:00:00,,21:00:00,California,WECC,Public appeal to reduce the use of electricity,Severe Weather,,,Weather
+97,7/3/2015,8:30:00,,14:30:00,"Butte County, California",WECC,Suspected Physical Attack,Suspicious Activity,0,0,physical Attack
+98,7/15/2015,2:00:00,,2:55:00,California,WECC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,360,0,Operations
+99,7/18/2015,18:26:00,,21:03:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,30,70,Islanding
+100,7/18/2015,19:59:00,,22:45:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,160,78164,Weather
+101,7/27/2015,3:52:00,,4:36:00,California,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,System Operations,,484,Islanding
+102,9/20/2015,13:12:00,,13:44:00,California,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,System Operations,150,,Load Shed
+103,10/13/2015,16:32:00,,20:39:00,California,WECC,Public appeal to reduce the use of electricity,Other,41788,,Public Appeal
+104,10/18/2015,7:00:00,,23:29:00,California: Central Coast area;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,88,55677,Weather
+105,12/10/2015,3:53:00,,4:08:00,California: Plumas County,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,Severe Weather,24,9956,Islanding
+106,12/10/2015,17:55:00,,17:56:00,California: Stanislaus County;,WECC,Suspected Physical Attack,Vandalism,,,Physical Attack
+107,12/10/2015,6:01:00,,7:13:00,California: Northern;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational,Severe Weather,29,9956,Weather
+108,2/13/2016,12:44:00,,16:27:00,California,SERC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Islanding,7,4300,Islanding
+109,2/26/2016,0:01:00,,,California: San Bernardino County,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+110,3/3/2016,11:00:00,,19:47:00,California: San Bernardino County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+111,4/2/2016,11:08:00,,11:33:00,California,WECC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,System Operations,360,0,Operations
+112,8/10/2016,6:00:00,,,California: Butte County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+113,10/1/2016,12:24:00,,2:04:00,California: Mendocino County;,WECC,Physical attack that causes major interruptions or impacts to critical infrastructure facilities or to operations,Actual Physical Event,0,0,Physical Attack
+114,10/5/2016,15:51:00,,,California: Imperial County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+115,10/28/2016,13:29:00,,13:38:00,California: Plumas County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Islanding,4,482,Islanding
+116,11/9/2016,11:59:00,,18:15:00,"California: Stanislaus County, San Joaquin County, Alameda County, Tuolumne County;",WECC,Cyber event that could potentially impact electric power system adequacy or reliability,Cyber Attack,0,0,Cyber Attack
+117,11/9/2016,6:44:00,,7:44:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+118,12/13/2016,14:09:00,,14:30:00,California: Riverside County;,WECC,Cyber event that could potentially impact electric power system adequacy or reliability,Cyber Event,0,0,Cyber Attack
+119,12/15/2016,6:30:00,,,California: Merced County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,,,Fuel Supply Deficiency
+120,12/28/2016,4:03:00,,6:00:00,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+121,1/8/2017,23:59:00,,,California,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+122,1/8/2017,9:07:00,,14:30:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,106000,Weather
+123,1/10/2017,19:30:00,,14:30:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,87000,Weather
+124,1/15/2017,6:35:00,,7:44:00,California: Los Angeles County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Transmission Disruption,176,126000,Transmission Interruption
+125,1/18/2017,18:05:00,,0:05:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,75000,Weather
+126,1/22/2017,6:00:00,,,California,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+127,1/22/2017,4:15:00,,14:00:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,97,64000,Weather
+128,2/17/2017,15:00:00,,11:00:00,California: Los Angeles County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,111591,Weather
+129,2/17/2017,8:09:00,,19:30:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,254,169250,Weather
+130,3/12/2017,9:56:00,,11:20:00,California: Imperial County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,1,Physical Attack
+131,4/6/2017,19:00:00,,,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,100000,Weather
+132,4/7/2017,4:16:00,,,California: Fresno County,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+133,4/21/2017,9:06:00,,17:45:00,"California: San Francisco, City and County of[10]",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",System Operations,130,88000,Operations
+134,5/3/2017,18:58:00,,21:15:00,California,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,Generation Inadequacy,572,0,Generation Interruption
+135,5/3/2017,19:05:00,,21:00:00,California,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,Generation Inadequacy,878,,Generation Interruption
+136,5/7/2017,5:15:00,,,California: Fresno County,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+137,7/8/2017,18:52:00,,8:00:00,California: Los Angeles County,WECC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,Transmission Interruption,645,176867,Transmission Interruption
+138,7/27/2017,6:00:00,,11:29:00,California: Butte County,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+139,8/5/2017,13:20:00,,14:20:00,California: Humboldt County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+140,8/21/2017,23:41:00,,0:21:00,California: Plumas County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,1,2,Islanding
+141,8/31/2017,14:49:00,,17:14:00,California: Los Angeles County;,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,Severe Weather,100,0,Weather
+142,9/1/2017,15:41:00,,20:30:00,California:,WECC,Load shedding of 100 Megawatts or more implemented under emergency operational policy,Severe Weather,337,0,Weather
+143,10/9/2017,2:03:00,,13:30:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather/Transmission Interruption,177,117900,Weather
+144,10/9/2017,6:44:00,,,California:,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather,100,,Weather
+145,10/25/2017,12:00:00,,16:00:00,California:,WECC,Cyber event that could potentially impact electric power system adequacy or reliability,Suspicious Activity,,,Cyber Attack
+146,12/4/2017,21:53:00,,,California:,WECC,Uncontrolled loss of 300 Megawatts or more of firm system loads for more than 15 minutes from a single incident,Severe Weather/Transmission Interruption,540,263000,Weather
+147,12/10/2017,1:25:00,,2:30:00,"California: Ventura County, Santa Barbara County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather/Transmission Interruption,110,51323,Weather
+148,2/4/2018,13:42:00,,15:25:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,9760,0,Physical Attack
+149,2/8/2018,13:25:00,,13:31:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,30,10900,Islanding
+150,2/17/2018,16:33:00,,0:00:00,Oregon: Washington: California:,WECC,Physical attack that causes major interruptions or impacts to critical infrastructure facilities or to operations,Vandalism,2330,0,Physical Attack
+151,2/17/2018,17:56:00,,4:11:00,Oregon: Washington: California:,WECC,Physical attack that causes major interruptions or impacts to critical infrastructure facilities or to operations,Vandalism,2327,0,Physical Attack
+152,3/1/2018,11:43:00,,11:56:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather,38,10898,Weather
+153,3/26/2018,3:05:00,,3:35:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+154,4/3/2018,11:15:00,,11:30:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+155,5/17/2018,1:11:00,,0:38:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Transmission Disruption,124,70000,Transmission Interruption
+156,5/17/2018,1:11:00,,,California: Contra Costa County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,70,70000,Weather
+157,6/12/2018,15:00:00,,15:15:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+158,6/30/2018,12:30:00,,12:31:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+159,7/9/2018,13:10:00,,14:45:00,"California: Merced County, Kern County; Nevada: Clark County;",WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+160,7/11/2018,0:58:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+161,7/16/2018,5:15:00,,,California: Merced County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+162,7/18/2018,4:00:00,,,California: Fresno County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+163,7/26/2018,20:24:00,,,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Natural Disaster,,,Natural Disaster
+164,7/29/2018,14:33:00,,18:23:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Natural Disaster,83,57670,Natural Disaster
+165,7/31/2018,11:44:00,,14:17:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Suspicious Activity,,,Physical Attack
+166,8/4/2018,8:20:00,,8:21:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,,Physical Attack
+167,8/7/2018,1:22:00,,1:59:00,California: Butte County;,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blocked out area or within the partial failure of an integrated electrical system.,Natural Disaster,5,485,Natural Disaster
+168,8/7/2018,1:22:00,,19:04:00,California: Butte County;,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blocked out area or within the partial failure of an integrated electrical system.,Natural Disaster,27,11383,Natural Disaster
+169,8/17/2018,13:07:00,,13:40:00,California:,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+170,8/30/2018,12:00:00,,12:20:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+171,9/5/2018,13:00:00,,13:01:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,,Physical Attack
+172,9/22/2018,15:23:00,,23:00:00,California: Los Angeles County;,WECC,"Unexpected Transmission loss within its area, contrary to design, of three or more Bulk Electric System Facilities caused by a common disturbance (excluding successful automatic reclosing).",Natural Disaster,3507,2500,Natural Disaster
+173,10/4/2018,16:01:00,,18:25:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Suspicious Activity,0,0,Physical Attack
+174,10/14/2018,22:11:00,,,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Natural Disaster,,60000,Natural Disaster
+175,10/29/2018,5:00:00,,7:00:00,California: Shasta County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+176,11/8/2018,7:16:00,,16:32:00,California: Butte County;,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blocked out area or within the partial failure of an integrated electrical system,Natural Disaster/Transmission Interruption,32,11844,Natural Disaster
+177,12/5/2018,12:48:00,,12:49:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+178,12/13/2018,10:00:00,,,"California: Stanislaus County, San Joaquin County;",WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+179,12/18/2018,8:47:00,,8:48:00,Utah: Salt Lake County; California: Oregon:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+180,12/26/2018,1:00:00,,10:27:00,California: Kern County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+181,12/27/2018,12:50:00,,13:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+182,1/6/2019,17:56:00,,21:52:00,California: Sacramento County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,300,90382,Weather
+183,1/16/2019,17:26:00,,12:19:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,190,126700,Weather
+184,1/31/2019,21:33:00,,21:34:00,California:,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+185,2/2/2019,10:28:00,,10:29:00,California,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+186,2/5/2019,18:17:00,,20:26:00,California,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather,42,33200,Weather
+187,2/13/2019,2:48:00,,0:28:00,California,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,182,121000,Weather
+188,3/5/2019,9:12:00,,18:57:00,"California: Kern County, Los Angeles County; Utah: Salt Lake County; Wyoming: Converse County;",WECC,Cyber event that causes interruptions of electrical system operations.,System Operations,0,0,Cyber Attack
+189,3/13/2019,6:12:00,,6:13:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+190,3/29/2019,23:36:00,,2:00:00,"California: San Diego County, Los Angeles County;",WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Suspicious Activity,0,0,Physical Attack
+191,4/2/2019,8:33:00,,9:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+192,4/3/2019,5:15:00,,12:39:00,California: Fresno County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+193,4/16/2019,10:30:00,,11:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+194,5/11/2019,14:08:00,,15:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+195,5/24/2019,21:47:00,,23:58:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather,20,10961,Weather
+196,6/2/2019,18:19:00,,20:43:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather/Transmission Interruption,,,Weather
+197,6/5/2019,9:46:00,,12:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+198,6/12/2019,14:56:00,,15:50:00,"California: Imperial County, Riverside County;",WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Generation Inadequacy,982,30907,Generation Interruption
+199,6/21/2019,10:00:00,,11:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+200,7/23/2019,3:22:00,,5:40:00,California: Santa Cruz County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,25,Physical Attack
+201,8/7/2019,15:00:00,,15:30:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+202,8/13/2019,10:00:00,,11:00:00,California: Placer County;,WECC,Uncontrolled loss of 300 Megawatts or more of firm system loads for 15 minutes or more from a single incident.,Vandalism,0,0,Physical Attack
+203,8/15/2019,23:03:00,,0:37:00,California: Marin County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Distribution Interruption,80,61318,Distribution Interruption
+204,8/31/2019,16:00:00,,6:00:00,California: Calaveras County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+205,9/25/2019,3:47:00,,15:40:00,"California: Napa County, Nevada County, Placer County, Plumas County, Sonoma County, Butte County, Yuba County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,25,69524,Weather
+206,9/29/2019,7:38:00,,,California: Alameda County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Distribution Interruption,,50072,Distribution Interruption
+207,10/4/2019,5:15:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+208,10/6/2019,5:15:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+209,10/9/2019,0:27:00,,,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather/Transmission Interruption,2400,737808,Weather
+210,10/19/2019,14:00:00,,21:07:00,California: Imperial County;,WECC,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+211,10/23/2019,14:36:00,,,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather/Transmission Interruption,,50000,Weather
+212,10/24/2019,5:15:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+213,10/26/2019,18:20:00,,1:27:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather/Transmission Interruption,3190,972000,Weather
+214,10/30/2019,6:32:00,,13:29:00,"California: Los Angeles County, Orange County, Riverside County, San Bernardino County, Ventura County, Kern County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather/Distribution Interruption,285,114402,Weather
+215,11/8/2019,5:50:00,,6:10:00,Utah: California: Oregon: Wyoming:,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blocked out area or within the partial failure of an integrated electrical system.,System Operations,72,,Operations
+216,11/20/2019,16:55:00,,17:37:00,California: Imperial County;,WECC,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+217,11/20/2019,9:49:00,,15:20:00,"California: Colusa County, Lake County, Mendocino County, Napa County, Solano County, Sonoma County, Yolo County, Shasta County, Tehama County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather/Transmission Interruption,178,54000,Weather
+218,11/26/2019,18:07:00,,12:27:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,300,93000,Weather
+219,11/27/2019,2:44:00,,16:00:00,California: Santa Clara County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,35,2,Physical Attack
+220,12/3/2019,6:55:00,,,California: Fresno County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,,Physical Attack
+221,1/17/2020,5:28:00,,10:13:00,California: Humboldt County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather/Transmission Interruption,87,67864,Weather
+222,1/20/2020,6:30:00,,6:31:00,California: Los Angeles County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+223,1/24/2020,4:34:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+224,1/31/2020,9:50:00,,10:00:00,California:,WECC,Cyber event that could potentially impact electric power system adequacy or reliability.,Suspicious Activity,0,0,Cyber Attack
+225,2/8/2020,13:56:00,,15:04:00,California:,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+226,2/9/2020,9:30:00,,21:40:00,"California: Alameda County, Contra Costa County, El Dorado County, Nevada County, Placer County, Sierra County, Santa Clara County, Napa County, Marin County, Santa Cruz County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,500,145000,Weather
+227,2/17/2020,4:00:00,,,Northern and Central California;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,91,70000,Weather
+228,2/18/2020,13:00:00,,14:00:00,California: Kern County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+229,2/25/2020,11:45:00,,13:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+230,3/16/2020,8:00:00,,8:01:00,California: Los Angeles County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+231,3/16/2020,8:00:00,,8:01:00,California: Los Angeles County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+232,3/16/2020,12:01:00,,13:10:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,165,110800,Weather
+233,3/24/2020,12:45:00,,14:00:00,California: Nevada County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+234,4/5/2020,15:46:00,,17:35:00,California: Stanislaus County;,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather,7,6814,Weather
+235,4/24/2020,21:00:00,,21:33:00,"California: Placer County, Nevada County;",WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,System Operations,5,945,Operations
+236,7/2/2020,20:30:00,,,California: Butte County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+237,7/7/2020,11:38:00,,18:24:00,California: Los Angeles County;,WECC,"Unexpected Transmission loss within its area, contrary to design, of three or more Bulk Electric System Facilities caused by a common disturbance (excluding successful automatic reclosing).",Transmission Interruption,0,0,Transmission Interruption
+238,7/8/2020,18:45:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+239,7/11/2020,4:55:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+240,7/14/2020,14:16:00,,14:53:00,California:,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+241,8/1/2020,8:16:00,,9:15:00,California: San Diego County;,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+242,8/14/2020,18:45:00,,21:12:00,"California: Kern County, Kings County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Santa Barbara County, Tulare County, Ventura County;",WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,System Operations,1419,132000,Operations
+243,8/14/2020,18:36:00,,20:42:00,California:,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,System Operations,560,220000,Operations
+244,8/14/2020,17:15:00,,21:00:00,California:,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,1120,,Weather
+245,8/15/2020,15:00:00,,19:45:00,"California: Inyo County, Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Tulare County, Ventura County;",WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,System Operations,200,70000,Operations
+246,8/15/2020,18:25:00,,19:44:00,California:,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,System Operations,459,220000,Operations
+247,8/15/2020,14:53:00,,20:00:00,California:,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,795,,Weather
+248,8/16/2020,3:44:00,,19:10:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,409,124266,Weather
+249,8/16/2020,17:30:00,,19:10:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,712,,Weather
+250,8/17/2020,8:21:00,,9:01:00,California: Yuba County;,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather,2,2,Weather
+251,8/17/2020,15:05:00,,21:24:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,829,,Weather
+252,8/18/2020,21:55:00,,22:10:00,California: Imperial County;,WECC,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+253,8/18/2020,19:00:00,,19:30:00,California: Kings County;,WECC,"Physical threat to its Bulk Electric System control center, excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the control center. Or suspicious device or activity at its Bulk Electric System control center.",Potential Physical Attack,0,0,Physical Attack
+254,8/18/2020,13:30:00,,20:30:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,917,,Weather
+255,8/19/2020,12:00:00,,21:00:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,,,Weather
+256,9/1/2020,13:04:00,,13:05:00,California: Los Angeles County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+257,9/5/2020,17:25:00,,20:55:00,California: Imperial County;,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational policy.,Severe Weather,100,20000,Weather
+258,9/5/2020,17:20:00,,20:37:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,Severe Weather,986,,Weather
+259,9/6/2020,17:36:00,,19:27:00,Washington: Oregon: California:,WECC,"Total generation loss, within one minute of: greater than or equal to 2,000 Megawatts in the Eastern or Western Interconnection or greater than or equal to 1,400 Megawatts in the ERCOT Interconnection.",System Operations,0,0,Operations
+260,9/6/2020,16:30:00,,21:05:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System.,System Operations,1071,,Public Appeal
+261,9/6/2020,17:00:00,,3:00:00,California: Los Angeles County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,,72000,Weather
+262,9/7/2020,22:40:00,,17:24:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Transmission Interruption,610,172000,Transmission Interruption
+263,9/22/2020,10:02:00,,12:58:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,System Operations,8,4350,Operations
+264,9/27/2020,18:27:00,,15:17:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Natural Disaster,337,102267,Natural Disaster
+265,10/25/2020,14:32:00,,18:00:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,1218,370000,Weather
+266,10/26/2020,11:24:00,,16:43:00,"California: Los Angeles County, Riverside County, San Bernardino County, Orange County, Kern County, Ventura County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,,136833,Weather
+267,11/1/2020,12:31:00,,12:35:00,California: Placer County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+268,11/14/2020,7:40:00,,,California: San Bernardino County;,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+269,12/3/2020,10:57:00,,15:02:00,"California: Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, San Diego County, Tulare County, Ventura County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,132,51686,Weather
+270,12/3/2020,0:44:00,,11:03:00,California: San Diego County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,93,73000,Weather
+271,12/7/2020,18:10:00,,21:09:00,"California: Kern County, Los Angeles County, Orange County, Riverside County, San Bernardino County, Ventura County, Tulare County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,286,76234,Weather
+272,12/13/2020,6:47:00,,7:36:00,California:,WECC,"Uncontrolled loss of 200 Megawatts or more of firm system loads for 15 minutes or more from a single incident for entities with previous year's peak demand less than or equal to 3,000 Megawatts.",System Operations,298,159239,Operations
+273,12/14/2020,17:01:00,,17:34:00,California:,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+274,12/17/2020,8:07:00,,8:32:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather,35,17000,Weather
+275,12/20/2020,5:06:00,,5:22:00,California: Los Angeles County;,WECC,Cyber event that could potentially impact electric power system adequacy or reliability.,Cyber Event,0,0,Cyber Attack
+276,12/25/2020,3:51:00,,3:52:00,California:,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+277,1/1/2021,7:04:00,,7:05:00,California: Alameda County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+278,1/2/2021,10:28:00,,10:29:00,California: Butte County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,System Operations,8,5803,Operations
+279,1/19/2021,2:48:00,,11:41:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,411,124888,Weather
+280,1/19/2021,9:31:00,,14:36:00,"California: Kern County, Los Angeles County, Riverside County, San Bernardino County, Ventura County, Orange County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,,173746,Weather
+281,1/23/2021,7:45:00,,8:00:00,"California: Placer County, Nevada County;",WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,45,0,Physical Attack
+282,1/26/2021,20:49:00,,21:14:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,841,255715,Weather
+283,2/16/2021,7:00:00,,,New Jersey: Pennsylvania: Texas: California: Illinois: Colorado:,RF,Cyber event that could potentially impact electric power system adequacy or reliability.,Cyber Event,,0,Cyber Attack
+284,3/6/2021,3:21:00,,4:07:00,California: Tuolumne County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Severe Weather,22,24000,Weather
+285,4/8/2021,4:51:00,,20:00:00,California:,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+286,4/22/2021,5:15:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability.,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+287,5/20/2021,7:25:00,,7:26:00,California: Imperial County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+288,5/27/2021,18:51:00,,15:56:00,California: Nevada:,WECC,"Unexpected Transmission loss within its area, contrary to design, of three or more Bulk Electric System Facilities caused by a common disturbance (excluding successful automatic reclosing).",Transmission Interruption,0,0,Transmission Interruption
+289,5/28/2021,20:00:00,,21:29:00,California: Riverside County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Actual Physical Attack,0,655,Physical Attack
+290,6/19/2021,18:54:00,,21:01:00,California: Alameda County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",System Operations,93,51806,Operations
+291,6/24/2021,3:34:00,,5:07:00,California: Plumas County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system.,Transmission Interruption,36,7621,Transmission Interruption
+292,7/9/2021,17:44:00,,21:05:00,California:,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Fuel Supply Deficiency,810,,Fuel Supply Deficiency
+293,7/9/2021,20:25:00,,21:00:00,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Severe Weather,230,47000,Weather
+294,7/14/2021,14:15:00,,14:16:00,California: Plumas County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather/Transmisison Interruption,35,11000,Weather
+295,7/22/2021,14:00:00,,14:40:00,California: Shasta County;,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,220,0,Operations
+296,8/1/2021,23:37:00,,0:00:00,"California: Humboldt County, Trinity County;",WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather,95,65888,Weather
+297,8/15/2021,17:17:00,,3:30:00,California: Solano County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Actual Physical Attack,0,0,Physical Attack
+298,8/17/2021,14:00:00,,14:00:00,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,0,Physical Attack
+299,8/17/2021,19:15:00,,17:45:00,"California: Butte County, Colusa County, Glenn County, Lake County, Lassen County, Mendocino County, Napa County, Plumas County, Shasta County, Sierra County, Solano County, Sonoma County, Tehama County, Trinity County, Yolo County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,234,71000,Weather
+300,8/20/2021,15:35:00,,16:35:00,California: Nevada County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+301,9/1/2021,6:22:00,,15:56:00,California: Santa Clara County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+302,9/9/2021,16:00:00,,17:30:00,California:,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+303,9/10/2021,7:20:00,,9:05:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,89,59649,Weather
+304,9/11/2021,8:32:00,,,Texas: Austin County; California: Los Angeles County;,TRE/SERC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Actual Physical Attack,0,0,Physical Attack
+305,9/22/2021,9:36:00,,11:45:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,1,0,Physical Attack
+306,10/5/2021,11:31:00,,11:32:00,California: Santa Clara County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+307,10/5/2021,11:31:00,,11:32:00,California: Santa Clara County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+308,10/8/2021,6:30:00,,10:00:00,California: Contra Costa County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+309,10/11/2021,14:22:00,,20:30:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,126,84000,Weather
+310,10/24/2021,8:55:00,,18:15:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,116,59000,Weather
+311,10/31/2021,7:49:00,,9:32:00,California: Alameda County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+312,11/16/2021,0:42:00,,7:35:00,California: Los Angeles County;,WECC,"Damage or destruction of a Facility within its Reliability Coordinator Area, Balancing Authority Area or Transmission Operator Area that results in action(s) to avoid a Bulk Electric System Emergency.",Suspicious Activity,0,0,Physical Attack
+313,11/24/2021,10:00:00,,10:21:00,"California: Riverside County, Ventura County, San Bernardino County, Orange County, Los Angeles County;",WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,81406,Weather
+314,11/30/2021,13:47:00,,14:21:00,California:,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,10,6000,Operations
+315,12/14/2021,7:28:00,,13:43:00,California: Humboldt County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather,120,65994,Weather
+316,12/18/2021,13:04:00,,21:59:00,California:,WECC,Physical attack that causes major interruptions or impacts to critical infrastructure or to operations,Suspicious Activity,10,11770,Physical Attack
+317,12/27/2021,21:01:00,,9:11:00,California: Humboldt County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,120,65994,Operations
+318,12/27/2021,4:11:00,,2:41:00,California:,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,381,115830,Weather
+319,1/2/2022,13:21:00,,17:38:00,California: Tuolumne County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,Severe Weather,3,1706,Weather
+320,2/1/2022,12:13:00,,12:25:00,California: Yuba County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,10,8124,Operations
+321,2/12/2022,16:29:00,,16:30:00,California: Alameda County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,,,Physical Attack
+322,2/24/2022,1:09:00,,2:59:00,"California: San Bernardino County, Kern County, Solano County, San Diego County;",WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,246,0,Operations
+323,2/25/2022,9:31:00,,13:09:00,Texas: Travis County; California: San Diego County;,TRE,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+324,3/15/2022,18:53:00,,20:33:00,California: Lake County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Vandalism,10,3958,Physical Attack
+325,3/16/2022,11:28:00,,11:29:00,California: Sacramento County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+326,3/29/2022,11:45:00,,,California: Imperial County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+327,4/11/2022,21:37:00,,22:14:00,California: Riverside County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Actual Physical Attack,2,1337,Physical Attack
+328,4/14/2022,5:59:00,,6:13:00,California: Los Angeles County;,WECC,"Unexpected Transmission loss within its area, contrary to design, of three or more Bulk Electric System Facilities caused by a common disturbance (excluding successful automatic reclosing).",Transmission Interruption,164,262268,Transmission Interruption
+329,4/16/2022,17:44:00,,,California:,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,9290,,Operations
+330,4/16/2022,5:30:00,,11:38:00,California: Shasta County;,WECC,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+331,4/26/2022,8:54:00,,8:55:00,California: Sacramento County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+332,4/29/2022,7:05:00,,7:06:00,California:,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+333,5/2/2022,14:24:00,,14:25:00,California:,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,0,Physical Attack
+334,5/16/2022,5:00:00,,5:01:00,"California: Solano County, Santa Clara County;",WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+335,5/25/2022,6:42:00,,6:43:00,California: Siskiyou County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Actual Physical Attack,0,0,Physical Attack
+336,5/27/2022,7:56:00,,8:38:00,Arizona: California: Nevada: New Mexico:,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+337,5/30/2022,14:10:00,,5:58:00,California: San Diego County;,WECC,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+338,6/1/2022,10:47:00,,10:48:00,Utah: California: Oregon: Umatilla County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+339,6/2/2022,8:20:00,,,California: Imperial County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+340,6/5/2022,15:20:00,,20:12:00,California:,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational polic,Generation Inadequacy,,,Generation Interruption
+341,6/6/2022,10:21:00,,10:24:00,California: Shasta County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,13,4000,Operations
+342,6/10/2022,20:27:00,,21:30:00,California: Kern County;,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational polic,System Operations,100,39094,Operations
+343,6/10/2022,20:20:00,,20:28:00,California: Kern County;,WECC,Firm load shedding of 100 Megawatts or more implemented under emergency operational polic,System Operations,100,,Operations
+344,6/10/2022,8:45:00,,,California:,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,13437,445,Operations
+345,6/23/2022,10:55:00,,,California:,WECC,Fuel supply emergencies that could impact electric power system adequacy or reliability,Fuel Supply Deficiency,0,0,Fuel Supply Deficiency
+346,7/1/2022,11:45:00,,,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,20,0,Physical Attack
+347,7/3/2022,10:30:00,,10:40:00,California: Contra Costa County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+348,7/3/2022,11:02:00,,,California: Kern County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Actual Physical Attack,,1079,Physical Attack
+349,7/4/2022,18:21:00,,,California: Amador County;,WECC,Electrical System Separation (Islanding) where part or parts of a power grid remain(s) operational in an otherwise blacked out area or within the partial failure of an integrated electrical system,System Operations,3,3001,Physical Attack
+350,7/6/2022,12:40:00,,12:41:00,Utah: California: Oregon: Douglas County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+351,7/11/2022,10:20:00,,,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,2,0,Physical Attack
+352,7/26/2022,4:20:00,,4:57:00,California: Santa Barbara County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Suspicious Activity,,,Physical Attack
+353,7/28/2022,19:25:00,,22:41:00,California: Placer County;,WECC,"Damage or destruction of its Facility that results from actual or suspected intentional human action. Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Actual Physical Attack,0,0,Physical Attack
+354,7/30/2022,19:35:00,,13:17:00,California: Shasta County;,WECC,Unplanned evacuation from its Bulk Electric System control center facility for 30 continuous minutes or more.,System Operations,0,0,Operations
+355,8/1/2022,8:03:00,,9:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Actual Physical Attack,0,0,Physical Attack
+356,8/22/2022,9:47:00,,9:48:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+357,8/24/2022,14:20:00,,14:21:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+358,8/25/2022,0:59:00,,1:00:00,California: San Diego County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+359,8/25/2022,0:59:00,,1:00:00,California: San Diego County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+360,8/26/2022,11:09:00,,11:10:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+361,9/1/2022,15:00:00,,21:00:00,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Severe Weather,242,44000,Weather
+362,9/4/2022,18:50:00,,2:45:00,California: Kings County;,WECC,Cyber event that could potentially impact electric power system adequacy or reliability,Cyber Event,0,0,Cyber Attack
+363,9/5/2022,6:05:00,,21:00:00,California: Sacramento County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,System Operations,,0,Public Appeal
+364,9/6/2022,16:30:00,,0:30:00,California: San Diego County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+365,9/6/2022,10:34:00,,21:00:00,California: Sacramento County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,System Operations,,0,Public Appeal
+366,9/6/2022,16:00:00,,21:00:00,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Severe Weather,272,44000,Weather
+367,9/7/2022,13:00:00,,,California: Imperial County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Vandalism,0,0,Physical Attack
+368,9/7/2022,11:31:00,,21:00:00,California: Sacramento County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,System Operations,,0,Public Appeal
+369,9/7/2022,16:00:00,,21:00:00,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Severe Weather,257,44000,Weather
+370,9/8/2022,10:52:00,,21:00:00,California: Sacramento County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,System Operations,,0,Public Appeal
+371,9/8/2022,11:54:00,,21:00:00,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Severe Weather,258,44000,Weather
+372,9/9/2022,16:00:00,,21:00:00,California: Shasta County;,WECC,Public appeal to reduce the use of electricity for purposes of maintaining the continuity of the Bulk Electric System,Severe Weather,257,44000,Weather
+373,9/22/2022,10:02:00,,11:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,1,0,Physical Attack
+374,9/23/2022,10:10:00,,11:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,2,0,Physical Attack
+375,9/27/2022,8:42:00,,10:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,1,0,Physical Attack
+376,9/30/2022,11:00:00,,12:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,2,0,Physical Attack
+377,10/3/2022,13:45:00,,14:30:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,1,0,Physical Attack
+378,10/13/2022,10:00:00,,11:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,1,0,Physical Attack
+379,10/21/2022,11:15:00,,11:18:00,California: Trinity County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious activity,0,0,Physical Attack
+380,10/28/2022,14:16:00,,15:00:00,California: Los Angeles County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,2,0,Physical Attack
+381,11/11/2022,1:00:00,,5:00:00,California: San Bernardino County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,,,Physical Attack
+382,11/25/2022,5:00:00,,8:00:00,California: Riverside County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Actual Physical Attack/Vandalism,0,0,Physical Attack
+383,12/6/2022,9:25:00,,,California: Sacramento County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+384,12/27/2022,13:30:00,,21:16:00,California: San Diego County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+385,12/27/2022,7:07:00,,11:10:00,California: Sacramento County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,,,Physical Attack
+386,12/27/2022,7:20:00,,11:22:00,California: Sacramento County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems.,Vandalism,0,0,Physical Attack
+387,12/31/2022,19:00:00,,6:00:00,California: Sacramento County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more.",Severe Weather,,161000,Weather
+388,1/1/2023,0:06:00,,3:57:00,California: Riverside County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+389,1/1/2023,9:55:00,,10:30:00,California: Sacramento County;,WECC,Complete loss of monitoring or control capability at its staffed Bulk Electric System control center for 30 continuous minutes or more.,System Operations,0,0,Operations
+390,1/7/2023,22:00:00,,21:00:00,California: Sacramento County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,458,185434,Weather
+391,1/12/2023,10:00:00,,,California: Sacramento County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,0,0,Physical Attack
+392,1/23/2023,17:00:00,,,California: Sacramento County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,,,Physical Attack
+393,1/23/2023,9:21:00,,,California: Sacramento County;,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Suspicious Activity,,,Physical Attack
+394,2/13/2023,21:50:00,,2:24:00,California: San Diego County;,WECC,Physical attack that could potentially impact electric power system adequacy or reliability; or vandalism which targets components of any security systems,Suspicious Activity,0,0,Physical Attack
+395,2/19/2023,8:18:00,,12:15:00,California: Riverside County;,WECC,Damage or destruction of its Facility that results from actual or suspected intentional human action.,Vandalism,0,0,Physical Attack
+396,2/25/2023,0:08:00,,18:08:00,California: Los Angeles County;,WECC,"Loss of electric service to more than 50,000 customers for 1 hour or more",Severe Weather,,153555,Weather
+397,3/26/2023,12:52:00,,13:54:00,Washington: Oregon: Josephine County; California: Idaho: Utah: Wyoming: Montana:,WECC,"Physical threat to its Facility excluding weather or natural disaster related threats, which has the potential to degrade the normal operation of the Facility. Or suspicious device or activity at its Facility.",Vandalism,34,,
